@@ -1,2 +1,2 @@
-# SriraagTry
-Learning GIT Basics
+This is a read me file
+Modified another line
