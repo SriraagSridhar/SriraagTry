@@ -7,7 +7,7 @@ read input
 	case $input in
 		good ) 	echo "Good"
 			;;
-		bad )	echo "Dont Worry this shall pass too!"
+		bad )	echo "Dont Worry about things you cant control"
 			;;
 		q )	echo "Quitting now !!";exit
 			;;
