@@ -9,8 +9,6 @@ read input
 			;;
 		bad )	echo "Dont Worry about things you cant control"
 			;;
-		q )	echo "Quitting now !!";exit
-			;;
 		* )	echo "\nUnknown Input try good or bad"
 			;;
 	esac
