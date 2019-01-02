@@ -11,8 +11,6 @@ read input
 			;;
 		q )	echo "Quitting now !!";exit
 			;;
-		* )	echo "\nUnknown Input try good or bad"
-			;;
 	esac
 
 done
