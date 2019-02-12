@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#Script to show how while loop works
 while (true)
 do
 echo "Hello, how are you doing today"
